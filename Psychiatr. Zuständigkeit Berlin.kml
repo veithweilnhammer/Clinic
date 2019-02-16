@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name> Psychiatr. Zuständigkeit Berlin</name>
+    <description><![CDATA[Diese Karte ist Teil der Homepage<br>www.avd-psychiatrie.de<br>von Dr. med. M. Elsner  <br><br>Bitte beachten!: Die Zuständigkeit gilt auch für Patienten ohne festen Wohnsitz, mit unbekannter Meldeadresse sowie mit einer Meldeadresse außerhalb Berlins, die sich im jeweiligen Bezirk aufhalten bzw. dort aufgefunden werden! ]]></description>
+    <NetworkLink>
+      <name> Psychiatr. Zuständigkeit Berlin</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1yFnbcRZi3zKH_2AV9vQ0tiqZc6s]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
